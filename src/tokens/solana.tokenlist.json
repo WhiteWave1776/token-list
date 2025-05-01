@@ -4,6 +4,6 @@
   "symbol": "$WWAVE",
   "name": "$WhiteWave",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/WhiteWave1776/token-list/refs/heads/main/assets/WhiteWaveImages.png",
+  "logoURI": "https://raw.githubusercontent.com/WhiteWave1776/token-list/main/assets/whiteWaveImages.png",
   "tags": ["solana", "meme", "nationalism", "identity", "community", "heritage", "culture"]
 }
